@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { TaskItem } from '../../model/task-item';
 
 @Component({
   selector: 'app-todo-button-delete-all',
